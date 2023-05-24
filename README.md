@@ -1,7 +1,7 @@
 
-# Currency Converter
+## Currency Converter
 
-This is a simple currency converter application built in Java. It allows users to convert an amount from USD (United States Dollar) to three other currencies: EUR (Euro), GBP (British Pound), and JPY (Japanese Yen).
+This is a simple currency converter application built in Java. It allows users to convert an amount from USD (United States Dollar) to three other currencies: Eur(Euro), rupee(indian), pkr(pakistani), c$ (canadian) and jpy (Japanese Yen).
 
 ## Features
 
